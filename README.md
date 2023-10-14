@@ -16,3 +16,17 @@
 💡 I had a great time working on this project and learned a lot about JavaFX in the process. If you'd like to try it out or take a peek at the code, feel free to reach out.
 
 #JavaFX #TicTacToe #GameDevelopment #Java #Coding #FunProjects
+
+### Screenshots
+
+![Start of the game](https://drive.google.com/uc?export=view&id=1cgcrd0sLktk0TVYfF2FuwqExZ0AHuS8q)
+*Start of the game*
+
+![In between the game](https://drive.google.com/uc?export=view&id=15iaXXhT7vvV_W-CpayRd2LOz_Ii2tce6)
+*In between the game*
+
+![When a player won the game](https://drive.google.com/uc?export=view&id=11xjOL2LQ_ysOaAw2zGrmJGNjBtSbeQwc)
+*When a player won the game*
+
+![When the game is a draw](https://drive.google.com/uc?export=view&id=1xe2VrxYDoA6I-9rzpYq_PWQGXnTxkoFM)
+*When the game is a draw*
